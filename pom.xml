@@ -159,7 +159,7 @@
                             <fail>true</fail>
                             <rules>
                                 <requireMavenVersion>
-                                    <!--test Some plugin features require a recent Maven runtime to work properly -->
+                                    <!--test test Some plugin features require a recent Maven runtime to work properly -->
                                     <message>Current version of Maven ${maven.version} required to build the project
                                         should be ${project.prerequisites.maven}, or higher!
                                     </message>
